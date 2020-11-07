@@ -83,3 +83,8 @@ public boolean hasPathSum(TreeNode root, int sum) {
     }
     return false;}
 ```
+
+总结：
+====
+
+比较经典的两种遍历方式，需要注意深度优先遍历的使用。
