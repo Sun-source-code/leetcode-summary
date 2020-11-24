@@ -56,3 +56,4 @@ public boolean exist(TreeNode root,int level,int k){
 ====
 
 二分查找的灵活运用，非常巧妙。
+
